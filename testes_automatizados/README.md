@@ -1,0 +1,1 @@
+Uma pequena API em nodejs, a qual é resultado do estudo de testes automatizados sem frameworks
